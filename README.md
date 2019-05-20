@@ -14,5 +14,5 @@
 
 
 
-[Screenshot](https://i.imgur.com/69JqX2u.png)		
+![Screenshot](https://i.imgur.com/69JqX2u.png)
 
